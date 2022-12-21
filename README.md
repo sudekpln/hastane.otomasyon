@@ -1,0 +1,6 @@
+# hastane.otomasyon![anasayfa](https://user-images.githubusercontent.com/63590581/208794101-94e273fa-0104-4b3e-8d7a-990e0378a434.png)
+![girisyap](https://user-images.githubusercontent.com/63590581/208794103-18148974-f74e-47a1-ac92-37c429a9e016.png)
+![hesapbilgi](https://user-images.githubusercontent.com/63590581/208794105-c3d98687-9116-4078-93e1-fa3bada9156b.png)
+![randvubilgi](https://user-images.githubusercontent.com/63590581/208794109-eb147641-77a0-4afc-bea6-6cc046f62539.png)
+![tarihalma](https://user-images.githubusercontent.com/63590581/208794111-df4f6164-315d-4fc4-a256-d3244fadba09.png)
+![uyeol](https://user-images.githubusercontent.com/63590581/208794113-38839e00-149c-48ca-a2b7-e3cc41161aa8.png)
