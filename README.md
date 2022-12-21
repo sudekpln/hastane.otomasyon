@@ -1,6 +1,19 @@
-# hastane.otomasyon![anasayfa](https://user-images.githubusercontent.com/63590581/208794101-94e273fa-0104-4b3e-8d7a-990e0378a434.png)
-![girisyap](https://user-images.githubusercontent.com/63590581/208794103-18148974-f74e-47a1-ac92-37c429a9e016.png)
-![hesapbilgi](https://user-images.githubusercontent.com/63590581/208794105-c3d98687-9116-4078-93e1-fa3bada9156b.png)
-![randvubilgi](https://user-images.githubusercontent.com/63590581/208794109-eb147641-77a0-4afc-bea6-6cc046f62539.png)
-![tarihalma](https://user-images.githubusercontent.com/63590581/208794111-df4f6164-315d-4fc4-a256-d3244fadba09.png)
-![uyeol](https://user-images.githubusercontent.com/63590581/208794113-38839e00-149c-48ca-a2b7-e3cc41161aa8.png)
+# hastane.otomasyon 
+
+Üye ol sayfası
+![uyeol](https://user-images.githubusercontent.com/63590581/208794210-85e74b58-8f39-443e-8d94-b9679eb489e8.png)
+
+Giriş yap sayfası
+![girisyap](https://user-images.githubusercontent.com/63590581/208794230-06b37e11-2b13-4d23-a649-2db62fb4106e.png)
+
+Anasayfa
+![anasayfa](https://user-images.githubusercontent.com/63590581/208794241-8c5a75d1-122c-41a5-b8bf-4862d04e393a.png)
+
+Randevu oluşturma
+![tarihalma](https://user-images.githubusercontent.com/63590581/208794340-cf87e55e-2953-46ba-8cd8-8b1761f8286b.png)
+
+Hesap bilgileri sayfası
+![hesapbilgi](https://user-images.githubusercontent.com/63590581/208794264-4378d9ef-db0a-4f58-9dc0-177db580d8ed.png)
+
+Randevu bilgi sayfası
+![randvubilgi](https://user-images.githubusercontent.com/63590581/208794285-332c20f4-ac9c-4f1f-9ad3-94460f02af63.png)
